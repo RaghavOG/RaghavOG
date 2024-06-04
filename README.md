@@ -20,7 +20,7 @@
  
 :star:  Looking forward to have a successful professional career as a **Software Developer** <br>
 :nerd_face: Currently working on **Full Stack Development!** <br>
-:snowflake: 2nd Year Studnet  **Chitkara University , Rajpura** in **B.E. CSE-AI**. Passout in 2027 <br>
+:snowflake: 2nd Year Student at Chitkara University, Rajpura, pursuing B.E. in CSE-AI, graduating in 2027 <br>
 🚀 Love to talk about **Research and Innovation!** <br>
 
 
