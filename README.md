@@ -22,9 +22,7 @@
 :nerd_face: Currently working on **Full Stack Development!** <br>
 :snowflake: 2nd Year Studnet  **Chitkara University , Rajpura** in **B.E. CSE-AI**. Passout in 2027 <br>
 🚀 Love to talk about **Research and Innovation!** <br>
-<!-- 🧑‍🤝‍🧑 Mentored over **250+ newbies in different Open Source Programs** <br> -->
-<!-- 💻 Participated in different Open Source Programs as, **a Participant, a Mentor and even as a PA** <br>
-**In short🍺, I love to work on new technologies.💙** <br> -->
+
 
 *:sleeping: Fun Fact about me: I used to listen music during the time of coding!*
  
@@ -74,7 +72,7 @@
 
 
 
-### :heavy_check_mark: Wanted to know more about me, Visit <a href = "https://abhisheks008.bio.link"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> :100:
+### :heavy_check_mark: Wanted to know more about me, Visit <a href = "https://raghavsingla.co.in/"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> :100:
 
 
 ## 💻 Workspace Spec [🔝](#welcome-badges-4-readmemd-profile)
