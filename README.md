@@ -70,7 +70,7 @@
 ## 🚀 Skills 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,next,threejs,vite,html,css,sass,vscode,github,materialui,fastapi,tailwind,git,arduino,nodejs,python,javascript,typescript,express,firebase,mongodb,mysql,c,cpp,netlify,postgres,sqlite,supabase,postman" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,next,threejs,vite,html,windows,css,sass,vscode,github,materialui,fastapi,tailwind,git,arduino,nodejs,python,javascript,typescript,express,firebase,mongodb,mysql,c,cpp,netlify,postgres,sqlite,supabase,postman,npm,notion,discord,django,flask,bash,redhat,redis,ubuntu" />
     <br>
 </div>
 
