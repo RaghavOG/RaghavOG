@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Raghav Singla
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Full+Stack+%26+AI+Engineer;Building+Agentic+AI+Systems;Kubernetes+%26+Cloud-Native+Dev;Technical+Writer+%26+Blogger;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Full+Stack+%26+AI+Engineer;Building+Agentic+AI+Systems;Kubernetes+%26+Cloud-Native+Dev;Technical+Writer+%26+Blogger;Shipping+Production+Systems" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,9 +10,13 @@
 
 I'm a **Full Stack & AI Engineer** passionate about building scalable, production-grade systems that combine modern web technologies with cutting-edge AI. I specialize in **agentic AI**, **RAG pipelines**, and **cloud-native architectures**.
 
-- 🔭 Currently interning at **Bajaj Finserv Health** — building a pharmacy bot for conversational medicine ordering
-- 🚀 Also building **DeepDSA** (AI competitive programming platform) and **DevOps Agent** (autonomous deployment assistant)
-- 🌱 Deep diving into **Agentic AI, LangGraph, RAG systems, and Generative AI workflows**
+### 🔨 Currently Building
+
+**Medpal** — Conversational pharmacy bot at **Bajaj Finserv Health**  
+Enabling users to order medicines via chat with full-stack conversational flows and backend integrations.
+
+- 🏥 Full Stack Intern at **Bajaj Finserv Health** *(May 2026 – Present)*
+- ⚙️ Building production-grade Agentic AI systems with **LangGraph, MCP**, and cloud infrastructure
 - 🎓 4th Year B.E. in CSE-AI at **Chitkara University** *(Aug 2023 – June 2027)* · CGPA: **8.91** *(till 5th sem)*
 - ✍️ Technical blogger at **[raghavsingla.tech](https://www.raghavsingla.tech/blog)** — demystifying complex systems
 - 💬 Ask me about **Next.js, Node.js, AI Agents, LangChain, Kubernetes, ArgoCD, System Design**
@@ -88,9 +92,9 @@ I'm a **Full Stack & AI Engineer** passionate about building scalable, productio
 ## 💼 Experience
 
 ### 🏥 **Full Stack Intern | Bajaj Finserv Health Limited** *(May 2026 – Present)*
-- Building a pharmacy bot that allows users to order medicines via chat — conversational ordering flows at scale
-- Developing full-stack features, integrating backend services, and delivering a seamless healthcare experience
-- Working with **Kubernetes, ArgoCD, ELK logs, ClickStack, and Langfuse** for deployment, observability, and LLM monitoring
+- Building conversational medicine ordering flows for **Medpal**, a pharmacy bot serving users at scale via chat
+- Developing full-stack features and integrating backend services for a seamless healthcare experience
+- Monitoring with **Langfuse** and traces using **ClickStack**
 
 ### 🏢 **Full Stack Developer Intern | The Brain Burners** *(Jan 2025 – Apr 2025)*
 - Architected a scalable freelance marketplace using Next.js, Node.js, and MongoDB with role-based authentication, improving backend performance by 30%
@@ -116,21 +120,21 @@ I'm a **Full Stack & AI Engineer** passionate about building scalable, productio
 - Built AI Voice Interviewer using speech-to-text + LLMs for real-time interactive coding interviews
 - Implemented problem management, editorial tools, dashboards, and real-time code execution engine
 
-### 🤖 **DevOps Agent** – Autonomous Deployment Assistant *(In Progress)*
+### 🤖 **DevOps Agent** – Autonomous Deployment Assistant
 **Tech Stack:** LangGraph, LangSmith, MCP, AWS, Docker, Kubernetes
 
-- Building LLM-driven agent to automate deployments across AWS, GCP, and Azure
-- Enables natural-language deployment workflows for CI/CD + infrastructure provisioning
-- Integrating with cloud providers for autonomous system management
+- Built an LLM-driven agent to automate deployments across AWS, GCP, and Azure
+- Enabled natural-language deployment workflows for CI/CD and infrastructure provisioning
+- Integrated cloud providers for autonomous system management
 
 ### ☁️ **S3 Clone** – AI-Powered AWS Management Platform
 **Live:** [s3.raghavsingla.tech](https://s3.raghavsingla.tech/) · **Tech Stack:** AWS STS, SSM, S3, EC2, Redis, LangGraph
 
-- Secure access via **AWS STS AssumeRole** — temporary credentials only, no long-term key storage
-- **Tool-based execution layer** that blocks direct AI-to-cloud interaction for safer automation
-- Unified dashboard for **multi-account S3 management** plus S3 and EC2 resource control
-- **Remote EC2 command execution** through AWS Systems Manager (SSM) via natural language
-- **Redis-backed rate limiting** and system control for production-grade reliability
+- Implemented secure access via **AWS STS AssumeRole** — temporary credentials only, no long-term key storage
+- Designed a **tool-based execution layer** that blocks direct AI-to-cloud interaction for safer automation
+- Built a unified dashboard for **multi-account S3 management** plus S3 and EC2 resource control
+- Enabled **remote EC2 command execution** through AWS Systems Manager (SSM) via natural language
+- Added **Redis-backed rate limiting** and system control for production-grade reliability
 
 ---
 
@@ -165,7 +169,7 @@ I write technical deep-dives explaining how complex systems work under the hood.
 
 ## 🏆 Achievements
 
-- 📦 **Created and published 4 NPM packages** with **1,000+ combined downloads**
+- 📦 **Published 4 NPM packages** used by developers worldwide — **1,000+ downloads** across multiple packages
   - `complete-auth-system`
   - `mern-vite-shadcn-template`
   - `vite-tailwind-starter`
@@ -175,20 +179,11 @@ I write technical deep-dives explaining how complex systems work under the hood.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=raghavog&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=RaghavOG&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
-</div>
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaghavOG&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
 </div>
-
----
-
-## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavOG&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
@@ -229,8 +224,10 @@ I write technical deep-dives explaining how complex systems work under the hood.
 ---
 
 <div align="center">
-  
-### 🌟 Show some ❤️ by starring some of the repositories!
+
+I enjoy building products that solve real engineering problems.
+
+If you'd like to collaborate, discuss architecture, or build something ambitious, let's connect.
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/RaghavOG/count.svg)
