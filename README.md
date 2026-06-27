@@ -10,9 +10,10 @@
 
 I'm a **Full Stack & AI Engineer** passionate about building scalable, production-grade systems that combine modern web technologies with cutting-edge AI. I specialize in **agentic AI**, **RAG pipelines**, and **cloud-native architectures**.
 
-- 🔭 Currently working on **DeepDSA** (AI competitive programming platform) and **DevOps Agent** (autonomous deployment assistant)
+- 🔭 Currently interning at **Bajaj Finserv Health** — building a pharmacy bot for conversational medicine ordering
+- 🚀 Also building **DeepDSA** (AI competitive programming platform) and **DevOps Agent** (autonomous deployment assistant)
 - 🌱 Deep diving into **Agentic AI, LangGraph, RAG systems, and Generative AI workflows**
-- 🎓 3rd Year B.E. in CSE-AI at **Chitkara University** (CGPA: 8.86)
+- 🎓 4th Year B.E. in CSE-AI at **Chitkara University** *(Aug 2023 – June 2027)* · CGPA: **8.91** *(till 5th sem)*
 - ✍️ Technical blogger at **[raghavsingla.tech](https://www.raghavsingla.tech/blog)** — demystifying complex systems
 - 💬 Ask me about **Next.js, Node.js, AI Agents, LangChain, System Design**
 - 📫 Reach me: **04raghavsingla28@gmail.com**
@@ -52,6 +53,7 @@ I'm a **Full Stack & AI Engineer** passionate about building scalable, productio
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -70,6 +72,11 @@ I'm a **Full Stack & AI Engineer** passionate about building scalable, productio
 ---
 
 ## 💼 Experience
+
+### 🏥 **Full Stack Intern | Bajaj Finserv Health Limited** *(May 2026 – Present)*
+- Building a pharmacy bot that lets users order medicines via chat — conversational ordering flows at scale
+- Developing full-stack features integrating backend services for a seamless healthcare experience
+- Delivering production-ready components for real-world fintech-healthcare workflows
 
 ### 🏢 **Full Stack Developer Intern | The Brain Burners** *(Jan 2025 – Apr 2025)*
 - Architected a scalable freelance marketplace using Next.js, Node.js, and MongoDB with role-based authentication, improving backend performance by 30%
@@ -110,6 +117,18 @@ I'm a **Full Stack & AI Engineer** passionate about building scalable, productio
 - Enables natural-language deployment workflows for CI/CD + infrastructure provisioning
 - Integrating with cloud providers for autonomous system management
 
+### 🛒 **Skillzy** – Freelance Marketplace
+**Tech Stack:** Next.js, TailwindCSS, MongoDB, Gemini AI, Stripe
+
+- Full-stack marketplace with secure authentication and role-based access control
+- Integrated Gemini AI for dynamic skill-verification tests during onboarding
+
+### 🎨 **LogoGenix** – AI Logo Generation Platform
+**Tech Stack:** Hugging Face (Flux), Gemini API, Clerk, Convex
+
+- AI-powered logo generation with real-time data management and user authentication
+- Live at **[logo-genix.vercel.app](https://logo-genix.vercel.app)**
+
 ---
 
 ## ✍️ Latest Blog Posts
@@ -133,6 +152,7 @@ I write technical deep-dives explaining how complex systems work under the hood.
 ## 🏆 Achievements
 
 - 📦 **Created and published 4 NPM packages** with **1,000+ combined downloads**
+  - `complete-auth-system`
   - `mern-vite-shadcn-template`
   - `vite-tailwind-starter`
   - `vite-shadcn-starter`
